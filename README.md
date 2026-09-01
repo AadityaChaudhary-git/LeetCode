@@ -7,6 +7,7 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,12 @@ DSA + Python + Sql
 | [0584-find-customer-referee](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/1757-recyclable-and-low-fat-products/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 <!---LeetCode Topics End-->
