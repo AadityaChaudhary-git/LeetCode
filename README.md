@@ -33,9 +33,15 @@ DSA + Python + Sql
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
