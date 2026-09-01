@@ -27,4 +27,5 @@ DSA ( Python )+ Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
