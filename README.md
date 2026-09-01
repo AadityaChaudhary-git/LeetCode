@@ -23,4 +23,8 @@ DSA ( Python )+ Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
