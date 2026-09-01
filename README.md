@@ -6,6 +6,7 @@ DSA + Python + Sql
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 ## Two Pointers
@@ -33,6 +34,7 @@ DSA + Python + Sql
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
