@@ -9,6 +9,7 @@ DSA + Python + Sql
 | [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 ## Two Pointers
@@ -16,6 +17,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -66,4 +68,8 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
