@@ -17,6 +17,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -58,6 +59,7 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
