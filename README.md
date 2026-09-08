@@ -39,6 +39,7 @@ DSA + Python + Sql
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/0595-big-countries/) | Easy |
