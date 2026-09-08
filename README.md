@@ -6,6 +6,7 @@ DSA + Python + Sql
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
@@ -15,6 +16,7 @@ DSA + Python + Sql
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
@@ -23,6 +25,7 @@ DSA + Python + Sql
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
