@@ -14,6 +14,7 @@ DSA + Python + Sql
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
+| [1929-concatenation-of-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +88,8 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0011-container-with-most-water/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
