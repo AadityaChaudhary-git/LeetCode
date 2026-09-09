@@ -12,6 +12,7 @@ DSA + Python + Sql
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1470-shuffle-the-array/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
