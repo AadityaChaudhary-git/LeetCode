@@ -6,6 +6,7 @@ DSA + Python + Sql
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
@@ -16,6 +17,7 @@ DSA + Python + Sql
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
@@ -81,4 +83,8 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
