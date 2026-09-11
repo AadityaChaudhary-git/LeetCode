@@ -8,6 +8,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
@@ -22,6 +23,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
