@@ -58,6 +58,7 @@ DSA + Python + Sql
 | [1661-average-time-of-process-per-machine](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/MySQL/1934-confirmation-rate/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
