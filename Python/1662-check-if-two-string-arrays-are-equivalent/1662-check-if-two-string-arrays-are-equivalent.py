@@ -5,8 +5,7 @@ class Solution(object):
         :type word2: List[str]
         :rtype: bool
         """
-        freq ={}
-        freq2={}
+
 
         string1 = "".join(word1)
         string2="".join(word2)
