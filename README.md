@@ -19,6 +19,7 @@ DSA + Python + Sql
 | [0485-max-consecutive-ones](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1470-shuffle-the-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -84,6 +85,7 @@ DSA + Python + Sql
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
