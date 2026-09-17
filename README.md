@@ -40,6 +40,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
+| [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
+| [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -81,6 +83,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
