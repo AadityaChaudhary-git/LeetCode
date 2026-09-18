@@ -114,4 +114,12 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
