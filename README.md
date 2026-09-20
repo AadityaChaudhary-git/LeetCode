@@ -82,6 +82,7 @@ DSA + Python + Sql
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
@@ -109,10 +110,12 @@ DSA + Python + Sql
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1929-concatenation-of-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -122,4 +125,8 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0021-merge-two-sorted-lists/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
