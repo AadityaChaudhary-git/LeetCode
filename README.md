@@ -82,6 +82,7 @@ DSA + Python + Sql
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
