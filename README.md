@@ -12,6 +12,7 @@ DSA + Python + Sql
 | [0027-remove-element](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
+| [0066-plus-one](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -116,6 +117,7 @@ DSA + Python + Sql
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
 ## Linked List
