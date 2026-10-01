@@ -15,6 +15,7 @@ DSA + Python + Sql
 | [0066-plus-one](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0485-max-consecutive-ones/) | Easy |
@@ -33,6 +34,7 @@ DSA + Python + Sql
 | [0042-trapping-rain-water](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
@@ -42,6 +44,7 @@ DSA + Python + Sql
 | ------- | ------- |
 | [0015-3sum](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
