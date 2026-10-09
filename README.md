@@ -126,6 +126,7 @@ DSA + Python + Sql
 | [0066-plus-one](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
+| [0263-ugly-number](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0412-fizz-buzz/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
