@@ -92,6 +92,7 @@ DSA + Python + Sql
 | [0076-minimum-window-substring](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0412-fizz-buzz/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ DSA + Python + Sql
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/1929-concatenation-of-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ DSA + Python + Sql
 | [0066-plus-one](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
+| [0412-fizz-buzz](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0412-fizz-buzz/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
