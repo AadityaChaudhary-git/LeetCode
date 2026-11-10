@@ -130,6 +130,7 @@ DSA + Python + Sql
 | [0189-rotate-array](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/0412-fizz-buzz/) | Easy |
+| [2235-add-two-integers](https://github.com/AadityaChaudhary-git/LeetCode/tree/main/Python/2235-add-two-integers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
